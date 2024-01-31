@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/Ina-Youn/github-readme-stats
+[![Ina-Youn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ina-Youn)](https://github.com/Ina-Youn/github-readme-stats)
 https://github-readme-stats.vercel.app/api?username=Ina-Youn&show_icons=true
-https://github-readme-stats.vercel.app/api?username=Ina-Youn&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api?username=Ina-Youn&theme=catppuccin_latte_icons=true
