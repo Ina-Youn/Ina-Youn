@@ -19,10 +19,3 @@ https://github.com/Ina-Youn/github-readme-stats
 https://github-readme-stats.vercel.app/api?username=Ina-Youn&show_icons=true
 https://github-readme-stats.vercel.app/api?username=Ina-Youn&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api?username=Ina-Youn&theme=catppuccin_latte_icons=true
-
-<a href="https://github.com/Ina-Youn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ina-Youn&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Ina-Youn/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ina-Youn&repo=convoychat" />
-</a>
